@@ -3,9 +3,9 @@
 
 # Trillo Project
 
-<img src="img/Animation.gif" alt="Omnifood Demo GIF" width="600px">
+<img src="img/Animation1.gif" alt="Omnifood Demo GIF" width="600px">
 
-> This GIF demonstrates the main features of the Natours website.
+> This GIF demonstrates the main features of the Trillo website.
 >
 <br> **Trillo** is an all-in-one booking app for hotels 🏨, flights ✈️, car rentals 🚗, and tours 🗺️. Built with **HTML, CSS, and SASS/SCSS**, it ensures a seamless and responsive experience across devices 📱💻. Search, book, and enjoy your adventures with Trillo! 🌍✨
 
